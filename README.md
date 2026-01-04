@@ -94,6 +94,9 @@ src/
 
 ## Design System
 
+![System Architect Heavy Design](system-architect-heavy-design.png)
+
+
 ### Color Palette
 
 | Color | Hex | Usage |
